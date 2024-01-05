@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="36.305542mm"
+   height="52.476265mm"
+   viewBox="0 0 36.305541 52.476265"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="favico.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     showguides="false"
+     guidecolor="#1de500"
+     guideopacity="0.6"
+     guidehicolor="#0024ff"
+     guidehiopacity="0.49803922"
+     inkscape:zoom="1.331101"
+     inkscape:cx="418.07498"
+     inkscape:cy="96.912259"
+     inkscape:window-width="1864"
+     inkscape:window-height="1016"
+     inkscape:window-x="56"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g121">
+    <inkscape:grid
+       id="grid7"
+       units="mm"
+       originx="-38.905956"
+       originy="-82.989952"
+       spacingx="0.5"
+       spacingy="0.5"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#e50023"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true"
+       snapvisiblegridlinesonly="false" />
+    <sodipodi:guide
+       position="3.0940402,33.466223"
+       orientation="0,-1"
+       id="guide7"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="7.09404,11.466224"
+       orientation="0,-1"
+       id="guide9"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <filter
+       id="selectable_hidder_filter"
+       width="1"
+       height="1"
+       x="0"
+       y="0"
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="LPE boolean visibility">
+      <feComposite
+         id="boolops_hidder_primitive"
+         result="composite1"
+         operator="arithmetic"
+         in2="SourceGraphic"
+         in="BackgroundImage"
+         k1="0"
+         k2="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <inkscape:path-effect
+       effect="bool_op"
+       operand-path=""
+       id="path-effect120"
+       is_visible="true"
+       lpeversion="1"
+       operation="union"
+       swap-operands="false"
+       filltype-this="from-curve"
+       filter=""
+       filltype-operand="from-curve" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-38.90596,-82.989953)">
+    <g
+       id="text1"
+       style="font-size:22.5778px;stroke-width:0.264583"
+       aria-label="BYTIFIED">
+      <g
+         id="g121"
+         transform="matrix(2.3550717,0,0,2.3550717,-41.530565,-154.22918)">
+        <path
+           d="m 36.692403,120.85265 -1.801947,0.10791 1.759461,1.7464 4.219492,-0.003 0.993221,-0.94826 -0.993221,-0.9033 z"
+           style="font-weight:bold;font-family:'Digital dream';-inkscape-font-specification:'Digital dream, Bold';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.604228;stroke-dasharray:none;stroke-opacity:1"
+           id="path118"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           d="m 48.320117,112.18289 -0.903304,0.99322 -0.04494,7.2051 0.886607,0.89966 1.0099,-1.01737 v -7.08739 z"
+           style="font-weight:bold;font-family:'Digital dream';-inkscape-font-specification:'Digital dream, Bold';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.604228;stroke-dasharray:none;stroke-opacity:1"
+           id="path116"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           d="m 35.382663,111.88937 -0.925783,1.33222 0.01308,7.32895 0.935185,0.91189 0.903304,-1.01596 v -7.22488 z"
+           style="font-weight:bold;font-family:'Digital dream';-inkscape-font-specification:'Digital dream, Bold';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.604228;stroke-dasharray:none;stroke-opacity:1"
+           id="path115"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           d="m 42.855851,110.91836 -0.993221,0.94827 0.993221,0.90278 h 4.177006 l 0.993738,-0.94826 -0.993738,-0.90279 z"
+           style="font-weight:bold;font-family:'Digital dream';-inkscape-font-specification:'Digital dream, Bold';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.604228;stroke-dasharray:none;stroke-opacity:1"
+           id="path114" />
+        <path
+           d="m 42.855851,110.91836 h 4.177006 l 0.993738,0.90279 -0.993738,0.94826 h -4.177006 l -0.993221,-0.90278 z"
+           style="font-weight:bold;font-family:'Digital dream';-inkscape-font-specification:'Digital dream, Bold';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.604228;stroke-dasharray:none;stroke-opacity:1"
+           id="path113" />
+        <path
+           d="m 36.692403,110.96384 -0.993738,0.94827 0.993738,0.90278 h 4.177006 l 0.993221,-0.94826 -0.993221,-0.90279 z"
+           style="font-weight:bold;font-family:'Digital dream';-inkscape-font-specification:'Digital dream, Bold';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.604228;stroke-dasharray:none;stroke-opacity:1"
+           id="path112" />
+        <path
+           d="m 35.698665,110.96384 h 5.170744 l 0.993221,0.90279 -0.993221,0.94826 h -5.170744 v -0.90278 z"
+           style="font-weight:bold;font-family:'Digital dream';-inkscape-font-specification:'Digital dream, Bold';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.604228;stroke-dasharray:none;stroke-opacity:1"
+           id="path111"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           d="m 36.096437,101.70967 -1.639557,1.6226 v 9.88932 l 0.925783,-1.33222 0.925784,2.39918 v -10.95628 z"
+           style="font-weight:bold;font-family:'Digital dream';-inkscape-font-specification:'Digital dream, Bold';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.604228;stroke-dasharray:none;stroke-opacity:1"
+           id="path110"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           d="m 48.252361,102.26101 -0.835548,0.98082 v 7.29258 l 0.948263,0.99374 0.903304,-0.99374 v -7.29258 z"
+           style="font-weight:bold;font-family:'Digital dream';-inkscape-font-specification:'Digital dream, Bold';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.604228;stroke-dasharray:none;stroke-opacity:1"
+           id="path109"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           d="m 42.855851,101.02904 -0.993221,0.94827 0.993221,0.9033 h 4.177006 l 0.961676,-0.87557 -0.961676,-0.976 z"
+           style="font-weight:bold;font-family:'Digital dream';-inkscape-font-specification:'Digital dream, Bold';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.604228;stroke-dasharray:none;stroke-opacity:1"
+           id="path108"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           d="m 36.692403,101.07452 -0.961676,1.02491 0.961676,0.82666 h 4.177006 l 0.993221,-0.94826 -0.993221,-0.90331 z"
+           style="font-weight:bold;font-family:'Digital dream';-inkscape-font-specification:'Digital dream, Bold';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.604228;stroke-dasharray:none;stroke-opacity:1"
+           id="path107"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           d="m 42.684621,120.78471 -0.961676,1.02491 0.961676,0.82666 4.248373,0.0253 1.486155,-1.54885 -0.98868,-0.3493 z"
+           style="font-weight:bold;font-size:22.5778px;font-family:'Digital dream';-inkscape-font-specification:'Digital dream, Bold';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.604228;stroke-dasharray:none;stroke-opacity:1"
+           id="path107-8"
+           sodipodi:nodetypes="ccccccc" />
+      </g>
+    </g>
+  </g>
+</svg>

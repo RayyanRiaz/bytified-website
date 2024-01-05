@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'railway';
+  src: url('/fonts/raleway/Raleway-SemiBold.ttf');
+}
+
+@font-face {
+  font-family: 'digital-dream';
+  src: url('/fonts/digital-dream.regular.ttf');
+}
+
+* {
+  font-family: railway, Arial, Helvetica, sans-serif;
+}
+
+.digital-font,
+.digital-font * {
+  font-family: digital-dream, Arial, Helvetica, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes spin-rev {
+  to {
+    transform: rotate(-360deg);
+  }
+}
+
+.animate-spin {
+  animation: spin 1s linear infinite;
+}
+.animate-spin-rev {
+  animation: spin-rev 1s linear infinite;
+}
+
+.scroller {
+  scrollbar-face-color: rgb(17 94 89);
+  scrollbar-shadow-color: rgb(17 94 89);
+  scrollbar-highlight-color: rgb(17 94 89);
+  scrollbar-color: rgb(17 94 89);
+  scrollbar-width: auto;
+}
+
+.scroller::-webkit-scrollbar {
+  width: 2px;
+}
+
+.scroller::-webkit-scrollbar-thumb {
+  background-color: #aaa;
+  border-radius: 5px;
+}
+
+.scroller::-webkit-scrollbar-thumb:hover {
+  background: rgb(17 94 89);
+}
+
+img[lazy='loading'] {
+  background-image: url(/imgs/loading.svg);
+}

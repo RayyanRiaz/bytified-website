@@ -1,0 +1,19 @@
+{
+    "name": "Node:20 Container",
+    "image": "node:20",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "Tobermory.es6-string-html",
+                "dbaeumer.vscode-eslint",
+                "Vue.volar",
+                "hollowtree.vue-snippets",
+                "wix.vscode-import-cost",
+                "bradlc.vscode-tailwindcss",
+                "esbenp.prettier-vscode",
+                "redhat.vscode-xml"
+            ]
+        }
+    },
+    "remoteUser": "node"
+}
