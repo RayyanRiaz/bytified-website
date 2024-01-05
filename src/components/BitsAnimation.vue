@@ -76,10 +76,11 @@ function convertByteNumberToBits(byteRepr) {
     .map((i) => +i)
     .flat();
 }
-const setArrayElSizes = (newWidth = null) => {
-  if (newWidth === null) {
-    newWidth = window.innerWidth;
+const setArrayElSizes = (newDims = null) => {
+  if (newDims === null) {
+    newDims = { width: window.innerWidth };
   }
+  const newWidth = newDims.width;
   if (newWidth < 768) {
     arrayElSizes.value = [12, 4, 20];
   } else if (newWidth < 1028) {
