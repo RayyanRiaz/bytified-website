@@ -5,7 +5,7 @@
         <div class="container px-4 mx-auto flex flex-wrap items-center justify-between">
           <div class="w-full relative flex justify-between lg:w-auto px-4 lg:static lg:block lg:justify-start">
             <a href="#" @click="onLogoClick" :boxed="false">
-              <AppLogo class="w-52 pt-4" fill="#FFF" />
+              <AppLogo class="w-36 md:w-44 pt-4" fill="#FFF" />
             </a>
             <button
               class="text-white cursor-pointer text-xl leading-none px-3 py-1 border border-solid border-transparent rounded bg-transparent block lg:hidden outline-none focus:outline-none"
@@ -20,10 +20,11 @@
             class="lg:flex lg:flex-grow items-center text-black"
           >
             <div class="flex flex-col lg:flex-row list-none ml-auto gap-3 lg:gap-8 pt-8 lg:pt-0">
-              <NavbarButton class="text-white" href="#clients">CLIENTS</NavbarButton>
-              <NavbarButton class="text-white" href="#tech_stack">TECH STACK</NavbarButton>
-              <NavbarButton class="text-white" href="#reviews">REVIEWS</NavbarButton>
-              <NavbarButton :boxed="true" href="#contact">CONTACT</NavbarButton>
+              <NavbarButton v-on:clicked="toggleNavbar" class="text-white" href="#clients">CLIENTS</NavbarButton>
+              <NavbarButton v-on:clicked="toggleNavbar" class="text-white" href="#tech_stack">TECH STACK</NavbarButton>
+              <NavbarButton v-on:clicked="toggleNavbar" class="text-white" href="#reviews">REVIEWS</NavbarButton>
+              <NavbarButton v-on:clicked="toggleNavbar" class="text-white" href="#portfolio">PORTFOLIO</NavbarButton>
+              <NavbarButton v-on:clicked="toggleNavbar" :boxed="true" href="#contact">CONTACT</NavbarButton>
             </div>
           </div>
         </div>

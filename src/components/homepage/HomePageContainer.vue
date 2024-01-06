@@ -7,10 +7,11 @@
         </HeadingH1>
         <BitsAnimation />
         <WhyUs />
-        <PastWork id="clients" class="md:-mt-10 lg:-mt-20" />
+        <OurClients id="clients" />
       </div>
       <TechStack class="px-10" />
       <OurReviews id="reviews" />
+      <OurPortfolio id="portfolio" />
       <CookiePopup />
     </div>
   </div>
@@ -19,8 +20,9 @@
 import BitsAnimation from '@/components/BitsAnimation.vue';
 import CookiePopup from '@/components/general/CookiePopup.vue';
 import HeadingH1 from '@/components/general/typography/HeadingH1.vue';
+import OurClients from '@/components/homepage/OurClients.vue';
+import OurPortfolio from '@/components/homepage/OurPortfolio.vue';
 import OurReviews from '@/components/homepage/OurReviews.vue';
-import PastWork from '@/components/homepage/PastWork.vue';
 import TechStack from '@/components/homepage/TechStack.vue';
 import WhyUs from '@/components/homepage/WhyUs.vue';
 </script>

@@ -1,5 +1,5 @@
 <template>
-  <h1 class="text-md md:text-3xl">
+  <h2 class="text-2xl md:text-3xl underline">
     <slot></slot>
-  </h1>
+  </h2>
 </template>

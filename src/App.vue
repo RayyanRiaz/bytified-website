@@ -15,7 +15,7 @@ const TermsAndConditions = defineAsyncComponent(() => import('@/components/Terms
 </script>
 
 <template>
-  <main>
+  <main class="text-sm md:text-md">
     <HomePageContainer v-if="store.currentPage == 'index'" class="transition-all duration-1000 ease-in-out" />
     <PrivacyPolicy v-if="store.currentPage == 'privacyPolicy'" class="transition-all duration-1000 ease-in-out" />
     <TermsAndConditions v-if="store.currentPage == 'toc'" class="transition-all duration-1000 ease-in-out" />

@@ -1,6 +1,8 @@
 <template>
   <div>
-    <ModalCard>
+    <div
+      class="w-full h-full flex flex-col gap-2 px-4 py-8 max-w-full lg:max-w-96 text-justify bg-white text-black transition-all duration-300"
+    >
       <div class="flex flex-col gap-8">
         <div class="flex flex-row gap-3 items-center">
           <div class="relative bg-teal-500 text-5xl text-center font-extrabold p-8 rounded-full">
@@ -13,12 +15,10 @@
         </div>
         <div class="text-justify">{{ text }}</div>
       </div>
-    </ModalCard>
+    </div>
   </div>
 </template>
 <script setup>
-import ModalCard from '@/components/general/ModalCard.vue';
-
 defineProps({
   letter: {
     type: String,
